@@ -1,1 +1,3 @@
-Segment classifier
+=================
+Accelerated Optical Character Recognition
+=================
