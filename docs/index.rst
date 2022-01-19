@@ -1,8 +1,8 @@
 =================
 Accelerated Optical Character Recognition
 =================
-.. toctree::
-   :numbered:
-   :maxdepth: 2
 
-   Segment classifier
+.. toctree::
+   :maxdepth: 2
+    
+   Segment Classifier
